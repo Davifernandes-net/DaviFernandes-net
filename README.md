@@ -20,7 +20,7 @@ Aqui estão as principais tecnologias com as quais trabalho no dia a dia:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** ![C# ,HTML ,JAva 
+| **Linguagens** ![C# ,HTML ,Java]
 | **Frameworks** .NET:9.0 | 
 
 | **Ferramentas/DB** | 
