@@ -26,9 +26,7 @@ Aqui estão as principais tecnologias com as quais trabalho no dia a dia:
 | **Ferramentas/DB** | 
 
 
----
 
-### 📊 Estatísticas do GitHub
 
 
 ---
